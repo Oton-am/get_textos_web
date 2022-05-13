@@ -34,3 +34,6 @@ for curso in get_name_cursos:
     
     # Adiciona nas linhas do arquivo CSV o nome do curso e o link para o plano de estudo
     arq_csv.writerow([name_curso, link_plano_estudo])
+
+
+    

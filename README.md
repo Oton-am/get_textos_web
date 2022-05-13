@@ -1,6 +1,20 @@
-O intuito deste código é fazer com que ele pegue informações de textos sobre os planos de ensino de diferentes cursos de licenciatura, que estejam relacionados a tecnologia, em sites de universidades e salvando essas informações em um arquivo csv.
+## Objetivo
 
-Vou utilizar a biblioteca "Beautiful Soup" para me ajudar a captar essas informações de texto utilizando as estruturas do próprio site.
+    O intuito deste código é fazer com que ele pegue informações de textos sobre os planos de ensino de diferentes cursos de licenciatura, que estejam relacionados a tecnologia, em sites de universidades e salvando essas informações em um arquivo csv.
+
+    Vou utilizar a biblioteca "Beautiful Soup" para me ajudar a captar essas informações de texto utilizando as estruturas do próprio site.
+
+
+## Dependências:
+
+    - requests:
+
+        $ pip install requests
+
+    
+    - beautifulsoup:
+
+        $ pip install beautifulsoup4
 
 Mais informações em:
 
